@@ -81,5 +81,5 @@ Après un entraînement efficace sur seulement 25 epochs avec des données augme
 
 ### 1. Cloner le dépôt
 ```bash
-git clone [https://github.com/votre-nom-d-utilisateur/WAGF-Fusion.git](https://github.com/votre-nom-d-utilisateur/WAGF-Fusion.git)
-cd WAGF-Fusion
+git clone [https://github.com/othmanayari-hue]
+
